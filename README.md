@@ -16,3 +16,8 @@ A console-based File Integrity Monitoring (FIM) tool built in C++ that tracks fi
 2. Ensure `main.cpp` and `test.txt` are in the same working directory.
 3. Compile and run `main.cpp` using your preferred C++ IDE (like Dev-C++ or Code::Blocks).
 4. Modify and save `test.txt` while the program is running to observe the change detection alert.
+
+## Author
+* Momina Khan
+* Cyber Security and Digital Forensics Student
+* LinkedIn: https://www.linkedin.com/in/momina-khan-5793453aa/
